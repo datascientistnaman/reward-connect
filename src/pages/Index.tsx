@@ -16,7 +16,7 @@ const Index = () => {
       <img
         src={logo}
         alt="Indian Republic Canteen logo"
-        className="w-20 h-20 rounded-2xl object-contain mb-4 shadow-card"
+        className="w-28 h-28 rounded-2xl object-cover mb-5 shadow-card"
       />
 
       {/* Headline */}
