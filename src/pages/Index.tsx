@@ -51,7 +51,7 @@ const Index = () => {
 
       {/* Urgency */}
       <p className="text-sm font-semibold text-secondary text-center mb-5">
-        ⏳ Next visit discount valid for 3 days only
+        ⏳ Your 10% discount expires in 72 hours.
       </p>
 
       {/* CTA */}
