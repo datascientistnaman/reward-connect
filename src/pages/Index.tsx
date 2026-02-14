@@ -27,7 +27,7 @@ const Index = () => {
         + 10% OFF Your Next Visit
       </h2>
       <p className="text-muted-foreground text-sm text-center mb-6">
-        Valid on bills above ₹200
+        Valid on bills above ₹299
       </p>
 
       {/* Card */}
